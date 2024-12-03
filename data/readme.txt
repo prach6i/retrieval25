@@ -5,5 +5,5 @@ mscoco_pairs.json: contains the queries in form of categories pairs for exclusio
 
 The data for Conceptual Captions are in this link: https://drive.google.com/drive/folders/1owFxa0LOBVZWZnOBbKVWaB6QZWDsvFba?usp=sharing
 
-The training data for MSCOCO are in this link: https://drive.google.com/drive/folders/1owFxa0LOBVZWZnOBbKVWaB6QZWDsvFba?usp=sharing
+The training data for MSCOCO for clip base model are in this link: https://drive.google.com/drive/folders/1owFxa0LOBVZWZnOBbKVWaB6QZWDsvFba?usp=sharing
 
